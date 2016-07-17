@@ -1,0 +1,52 @@
+"state";"region";"population";"gundealers";"mcdonalds";"hospitals"
+"AL";"South Central";4858979;1325;279;96
+"AK";"West";738432;677;31;22
+"AZ";"West";6828065;1933;292;72
+"AR";"South Central";2978204;1398;184;81
+"CA";"West";39144818;2630;1492;344
+"CO";"West";5456574;1879;237;82
+"CT";"Northeast";3590886;627;157;32
+"DE";"South Atlantic";945934;140;44;7
+"DC";"South Atlantic";672228;5;36;11
+"FL";"South Atlantic";20271272;3385;986;211
+"GA";"South Atlantic";10214860;2181;511;142
+"HI";"West";1431603;108;65;25
+"ID";"West";1654930;1081;69;40
+"IL";"Midwest";12859995;2319;738;189
+"IN";"Midwest";6619680;1623;392;121
+"IA";"Midwest";3123899;1477;173;118
+"KS";"Midwest";2911641;1265;184;133
+"KY";"South Central";4425092;1556;261;104
+"LA";"South Central";4670724;1312;291;122
+"ME";"Northeast";1329328;579;72;35
+"MD";"South Atlantic";6006401;656;375;50
+"MA";"Northeast";6794422;547;297;79
+"MI";"Midwest";9922576;2427;631;148
+"MN";"Midwest";5489594;1640;282;131
+"MS";"South Central";2992333;1042;162;97
+"MO";"Midwest";6083672;2472;368;122
+"MT";"West";1032949;1254;55;50
+"NE";"Midwest";1896190;789;89;89
+"NV";"West";2890845;625;155;37
+"NH";"Northeast";1330608;554;69;28
+"NJ";"Northeast";8958013;368;311;75
+"NM";"West";2085109;738;100;37
+"NY";"Northeast";19795791;1878;767;174
+"NC";"South Atlantic";10042802;2640;475;116
+"ND";"Midwest";756927;470;29;40
+"OH";"Midwest";11613423;2771;823;182
+"OK";"South Central";3911338;1681;217;114
+"OR";"West";4028977;1545;205;59
+"PA";"Northeast";12802503;2854;583;185
+"RI";"Northeast";1056298;104;44;11
+"SC";"South Atlantic";4896146;1233;257;70
+"SD";"Midwest";858469;590;36;53
+"TN";"South Central";6600299;1629;393;125
+"TX";"South Central";27469114;6751;1224;417
+"UT";"West";2995919;999;111;47
+"VT";"Northeast";626042;352;30;14
+"VA";"South Atlantic";8382993;1910;445;93
+"WA";"West";7170351;1255;326;90
+"WV";"South Atlantic";1844128;1011;101;54
+"WI";"Midwest";5771337;1781;341;129
+"WY";"West";586107;686;32;23
